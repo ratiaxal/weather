@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "simple weather project",
+  "homepage": "https://github.com/ratiaxal/weather#readme",
+  "bugs": {
+    "url": "https://github.com/ratiaxal/weather/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratiaxal/weather.git"
+  },
+  "license": "ISC",
+  "author": "rati",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
